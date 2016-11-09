@@ -5,6 +5,7 @@ import java.io.InputStreamReader;
 
 /**
  * Created by shubham on 09/11/16.
+ * Link : https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/modify-the-string/
  */
 public class ToggleStringCase {
 
